@@ -1,0 +1,35 @@
+/* Navbar */
+.title {
+  font-family: 'Playfair Display';
+  font-size: 100px;
+  color: #fff;
+}
+
+.logo {
+  width: 15%;
+  margin-left: 150px;
+}
+
+.nav-link {
+  margin-top: 50px;
+  position: relative;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.nav-link:hover {
+  font-weight: bold;
+  bottom: 10px;
+}
+
+/* Card */
+.card-elements a {
+  -ms-grid-column-align: end;
+      justify-self: end;
+}
+
+/* QA */
+.spideyselfie {
+  padding-left: 150px;
+}
+/*# sourceMappingURL=style.css.map */
