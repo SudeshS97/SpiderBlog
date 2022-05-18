@@ -1,5 +1,5 @@
 # SpiderBlog
-A Spider-Man blog website built primarily with Bootstrap for studying purposes.
+A Spider-Man blog website built primarily with Bootstrap for studying purposes. With animations for the navigation bar links.
 
 ![](Screenshots/s1.png)
 
